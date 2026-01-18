@@ -186,7 +186,7 @@ GitLab SaaS с self-hosted runners является оптимальным ре�
 
 ## Решение 3:
 
-## Стек: Prometheus + Grafana
+### Стек: Prometheus + Grafana
 
 ### Архитектура
 
